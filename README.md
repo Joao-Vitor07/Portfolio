@@ -12,6 +12,6 @@
 
 ## Feito por:
 
-### Joana Santos
+### João Vitor
 
 ### Linkedin: [https://www.linkedin.com/in/jo%C3%A3o-vitor-souza-459b15258/]
