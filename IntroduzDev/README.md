@@ -2,7 +2,7 @@
 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/Joao-Vitor07/Portfolio/blob/main/IntroduzDev__imagem.png?raw=true)
+![image](https://github.com/Joao-Vitor07/Portfolio/blob/main/IntroduzDev/IntroduzDev__imagem.png)
 
 ## Ferramentas utilizadas:
 
