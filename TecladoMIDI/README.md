@@ -1,6 +1,6 @@
 # Portfolio 
 
-Olá, Bem vindo ao meu projeto de portfólio.
+Olá, Bem vindo ao meu projeto de portfólio. Aplicando os conceitos de JavaScript em um teclado de sons!
 
 ## Ferramentas utilizadas:
 
